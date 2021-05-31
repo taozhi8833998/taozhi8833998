@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **taozhi8833998/taozhi8833998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I am Zhi Tao From China 👋
+## Hi, I am Zhi Tao 👋
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on kubernetes with edge case.
 
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 ### About me:
 - 😄 Fun fact: I'm a java developer with weird temper before
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [email](taozhi8833998@gmail.com)
+- 📫 How to reach me: [Email](taozhi8833998@gmail.com)
 - 💬 Ask me about `Nothing`
 
 <img src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true">

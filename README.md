@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on kubernetes with edge case.
 
-✨ I study: English, React, Kubernetes, Rust
+✨ I study: React, Kubernetes, Rust, Nodejs
 
 ### My stack:
 - 4+ years of experience in React, Node.js, Express.js , async, await

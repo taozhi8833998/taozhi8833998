@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](taozhi8833998@gmail.com)
 - 💬 Ask me about `Nothing`
-<div>
+<div style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true">
   <img height="195px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact" />
 </div>

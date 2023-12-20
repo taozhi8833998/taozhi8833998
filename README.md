@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I am Zhi Tao 👋
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on kubernetes with edge computing.
+🤔 I'm currently working on Kubernetes with edge computing.
 
 ✨ I study: React, Kubernetes, Rust, Nodejs
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - LocalStorage, SessionStorage, JWT
 
 ### About me:
-- 😄 Fun fact: I'm a java developer with weird temper before
+- 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](taozhi8833998@gmail.com)
 - 💬 Ask me about `Nothing`

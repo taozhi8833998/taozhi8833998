@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 ## Hi, I am Zhi Tao 👋
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on kubernetes with edge case.
+🤔 I'm currently working on kubernetes with edge computing.
 
 ✨ I study: React, Kubernetes, Rust, Nodejs
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ### My stack:
-- 4+ years of experience in React, Node.js, Express.js , async, await
-- 2+ years of experience in Kubernetes
+- 5+ years of experience in React, Node.js, Express.js , async, await
+- 3+ years of experience in Kubernetes
 - 1+ years of experience in Rust
 - 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
 - ❤️ API, RESTful API, GraphQL

@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](taozhi8833998@gmail.com)
 - 💬 Ask me about `Nothing`
 <div>
-  <img width="435px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true">
-  <img width="380px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact" />
+  <img width="445px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true">
+  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
-  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998" />
+  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998" />
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

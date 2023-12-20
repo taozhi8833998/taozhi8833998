@@ -38,9 +38,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](taozhi8833998@gmail.com)
 - 💬 Ask me about `Nothing`
 <div>
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact" />
+  <img width="465px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true">
+  <img width="410px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact" />
+  <img width="470px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
+  <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998" />
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+

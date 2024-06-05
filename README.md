@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Zhi Tao 👋 </h1>
-<h3 align="center">Aspiring Full Stack Developer from China </h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<h3 align="center">Aspiring Full Stack Developer from China </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on Kubernetes with edge computing.

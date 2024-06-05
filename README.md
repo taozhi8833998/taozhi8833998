@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 
 ✨ I study: React, Kubernetes, Rust, Nodejs
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
 
 ## About me:
 - 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](taozhi8833998@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
+
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
 - 5+ years of experience in React, Node.js, Express.js , async, await

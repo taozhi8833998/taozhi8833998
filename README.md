@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 ## My Profile
 <div>
- <a href="https://github.com/taozhi8833998"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taozhi8833998&theme=vision_friendly_dark"/>
+  <a href="https://github.com/taozhi8833998"><img width="850px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taozhi8833998&theme=vision_friendly_dark"/></a>
 </div>
 
 ## My Rewards

@@ -117,6 +117,11 @@ Here are some ideas to get you started:
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
 </div>
 
+## My Profile
+<div>
+ <a href="https://github.com/taozhi8833998"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taozhi8833998&theme=vision_friendly_dark"/>
+</div>
+
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
